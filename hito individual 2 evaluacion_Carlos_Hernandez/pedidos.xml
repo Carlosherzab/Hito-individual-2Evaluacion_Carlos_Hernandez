@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE años SYSTEM "pedidos.dtd">
+<años> 
+<año anio="2021">
+    <trimestre trim="1">
+      <Pedidos>
+        <pedido>
+          <nombre>Iván</nombre>
+          <apellidos>Moreno</apellidos>
+          <teléfono>621456789</teléfono>
+          <dirección>
+            <calle>Serrano</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28976</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>ivánmoreno@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>1</número_pedido>
+            <fecha_compra>2021-01-02</fecha_compra>
+            <fecha_entrega>2021-01-03</fecha_entrega>
+            <total_factura>70 €</total_factura>
+            <producto>
+              <nombre_producto>Mando Play 4</nombre_producto>
+              <referencia>P0001</referencia>
+              <precio>35 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+    <pedido>
+      <nombre>Alba</nombre>
+      <apellidos>Grisaleña</apellidos>
+      <teléfono>678902012</teléfono>
+      <dirección>
+        <calle>Lionel Messi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>albagrs@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-05</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>2</número_pedido>
+        <fecha_compra>2021-01-06</fecha_compra>
+        <fecha_entrega>2021-01-09</fecha_entrega>
+        <total_factura>300 €</total_factura>
+        <producto>
+          <nombre_producto>Nintendo switch oled</nombre_producto>
+          <referencia>P0002</referencia>
+          <precio>300 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>3</número_pedido>
+        <fecha_compra>2021-01-06</fecha_compra>
+        <fecha_entrega>2021-01-08</fecha_entrega>
+        <total_factura>20 €</total_factura>
+        <producto>
+          <nombre_producto>Gta V PS5</nombre_producto>
+          <referencia>P0003</referencia>
+          <precio>20 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Alejandro</nombre>
+      <apellidos>Ponce</apellidos>
+      <teléfono>698090856</teléfono>
+      <dirección>
+        <calle>Juan Ramón Jiménez</calle>
+        <ciudad>Murcia</ciudad>
+        <código_postal>30001</código_postal>
+        <provincia>Murcia</provincia>
+      </dirección>
+      <correo_electrónico>ponce@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-10</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>4</número_pedido>
+        <fecha_compra>2021-02-12</fecha_compra>
+        <fecha_entrega>2021-02-13</fecha_entrega>
+        <total_factura>120 €</total_factura>
+        <producto>
+          <nombre_producto>God Of War Ragnarok PS5</nombre_producto>
+          <referencia>P0004</referencia>
+          <precio>60 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>María</nombre>
+      <apellidos>Zabalgo</apellidos>
+      <teléfono>679654321</teléfono>
+      <dirección>
+        <calle>Greco</calle>
+        <ciudad>Sevilla</ciudad>
+        <código_postal>29890</código_postal>
+        <provincia>Sevilla</provincia>
+      </dirección>
+      <correo_electrónico>maría@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-15</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>5</número_pedido>
+        <fecha_compra>2021-02-16</fecha_compra>
+        <fecha_entrega>2021-02-18</fecha_entrega>
+        <total_factura>270 €</total_factura>
+        <producto>
+          <nombre_producto>Play 4 Pro</nombre_producto>
+          <referencia>P0005</referencia>
+          <precio>270 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>6</número_pedido>
+        <fecha_compra>2021-02-20</fecha_compra>
+        <fecha_entrega>2021-02-21</fecha_entrega>
+        <total_factura>24 €</total_factura>
+        <producto>
+          <nombre_producto>Cuphead Nintendo Switch</nombre_producto>
+          <referencia>P0006</referencia>
+          <precio>24 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>7</número_pedido>
+        <fecha_compra>2021-03-23</fecha_compra>
+        <fecha_entrega>2021-03-25</fecha_entrega>
+        <total_factura>7 €</total_factura>
+        <producto>
+          <nombre_producto>Call of Duty Black Ops 4</nombre_producto>
+          <referencia>P0007</referencia>
+          <precio>7 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Alba</nombre>
+      <apellidos>Grisaleña</apellidos>
+      <teléfono>678902012</teléfono>
+      <dirección>
+        <calle>Lionel Messi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>albagrs@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-05</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>8</número_pedido>
+        <fecha_compra>2021-03-24</fecha_compra>
+        <fecha_entrega>2021-03-25</fecha_entrega>
+        <total_factura>25 €</total_factura>
+        <producto>
+          <nombre_producto>Cuphead switch</nombre_producto>
+          <referencia>P0008</referencia>
+          <precio>25 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Daniel</nombre>
+      <apellidos>Moreno</apellidos>
+      <teléfono>678932121</teléfono>
+      <dirección>
+        <calle>Títeres</calle>
+        <ciudad>Galicia</ciudad>
+        <código_postal>22121</código_postal>
+        <provincia>Galicia</provincia>
+      </dirección>
+      <correo_electrónico>moreno@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-19</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>9</número_pedido>
+        <fecha_compra>2021-03-24</fecha_compra>
+        <fecha_entrega>2021-03-25</fecha_entrega>
+        <total_factura>15 €</total_factura>
+        <producto>
+          <nombre_producto>The Last Of Us parte I PS4</nombre_producto>
+          <referencia>P0009</referencia>
+          <precio>15 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>10</número_pedido>
+        <fecha_compra>2021-03-28</fecha_compra>
+        <fecha_entrega>2021-03-30</fecha_entrega>
+        <total_factura>10 €</total_factura>
+        <producto>
+          <nombre_producto>God Of War PS4</nombre_producto>
+          <referencia>P0010</referencia>
+          <precio>10 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+</Pedidos>
+</trimestre>
+    <trimestre trim="2">
+      <Pedidos>
+        <pedido>
+          <nombre>Ernesto</nombre>
+      <apellidos>Sevilla</apellidos>
+      <teléfono>677754770</teléfono>
+      <dirección>
+        <calle>Paulatib</calle>
+        <ciudad>Galicia</ciudad>
+        <código_postal>20021</código_postal>
+        <provincia>Galicia</provincia>
+      </dirección>
+      <correo_electrónico>sevilla@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-26</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>11</número_pedido>
+        <fecha_compra>2021-04-22</fecha_compra>
+        <fecha_entrega>2021-04-24</fecha_entrega>
+        <total_factura>120 €</total_factura>
+        <producto>
+          <nombre_producto>Mando PS5</nombre_producto>
+          <referencia>P0011</referencia>
+          <precio>60 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>12</número_pedido>
+        <fecha_compra>2021-04-06</fecha_compra>
+        <fecha_entrega>2021-04-08</fecha_entrega>
+        <total_factura>10 €</total_factura>
+        <producto>
+          <nombre_producto>Battlefront 2 PS4</nombre_producto>
+          <referencia>P0012</referencia>
+          <precio>10 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Alba</nombre>
+      <apellidos>Grisaleña</apellidos>
+      <teléfono>678902012</teléfono>
+      <dirección>
+        <calle>Lionel Messi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>albagrs@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-05</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>13</número_pedido>
+        <fecha_compra>2021-04-06</fecha_compra>
+        <fecha_entrega>2021-04-09</fecha_entrega>
+        <total_factura>50 €</total_factura>
+        <producto>
+          <nombre_producto>Animal Crossing</nombre_producto>
+          <referencia>P0013</referencia>
+          <precio>50 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>14</número_pedido>
+        <fecha_compra>2021-05-10</fecha_compra>
+        <fecha_entrega>2021-05-13</fecha_entrega>
+        <total_factura>27 €</total_factura>
+        <producto>
+          <nombre_producto>Spider-Man Miles Morales</nombre_producto>
+          <referencia>P0014</referencia>
+          <precio>27 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Alejandro</nombre>
+      <apellidos>Ponce</apellidos>
+      <teléfono>698090856</teléfono>
+      <dirección>
+        <calle>Juan Rmón Jiménez</calle>
+        <ciudad>Murcia</ciudad>
+        <código_postal>30001</código_postal>
+        <provincia>Murcia</provincia>
+      </dirección>
+      <correo_electrónico>ponce@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-10</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>15</número_pedido>
+        <fecha_compra>2021-05-12</fecha_compra>
+        <fecha_entrega>2021-05-13</fecha_entrega>
+        <total_factura>22 €</total_factura>
+        <producto>
+          <nombre_producto>Red Dead 2 PS4</nombre_producto>
+          <referencia>P0015</referencia>
+          <precio>22 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>16</número_pedido>
+        <fecha_compra>2021-05-20</fecha_compra>
+        <fecha_entrega>2021-05-21</fecha_entrega>
+        <total_factura>10 €</total_factura>
+        <producto>
+          <nombre_producto>Battlefront 2015 PS4</nombre_producto>
+          <referencia>P0016</referencia>
+          <precio>10 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Marta</nombre>
+      <apellidos>Martín</apellidos>
+      <teléfono>621342134</teléfono>
+      <dirección>
+        <calle>Ausias</calle>
+        <ciudad>Cáceres</ciudad>
+        <código_postal>27322</código_postal>
+        <provincia>Cáceres</provincia>
+      </dirección>
+      <correo_electrónico>marta@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-01</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>17</número_pedido>
+        <fecha_compra>2021-06-16</fecha_compra>
+        <fecha_entrega>2021-06-18</fecha_entrega>
+        <total_factura>100 €</total_factura>
+        <producto>
+          <nombre_producto>Super nintendo mini</nombre_producto>
+          <referencia>P0017</referencia>
+          <precio>100 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Pelayo</nombre>
+      <apellidos>Gallego</apellidos>
+      <teléfono>672302345</teléfono>
+      <dirección>
+        <calle>Puca 3</calle>
+        <ciudad>Oviedo</ciudad>
+        <código_postal>24221</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>pela@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>18</número_pedido>
+        <fecha_compra>2021-06-20</fecha_compra>
+        <fecha_entrega>2021-06-21</fecha_entrega>
+        <total_factura>38 €</total_factura>
+        <producto>
+          <nombre_producto>Fifa 23 Nintendo Switch</nombre_producto>
+          <referencia>P0018</referencia>
+          <precio>38 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Aurelio</nombre>
+      <apellidos>Hernán</apellidos>
+      <teléfono>678903445</teléfono>
+      <dirección>
+        <calle>Poli</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28240</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>aurelio@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-22</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>19</número_pedido>
+        <fecha_compra>2021-06-23</fecha_compra>
+        <fecha_entrega>2021-06-25</fecha_entrega>
+        <total_factura>15</total_factura>
+        <producto>
+          <nombre_producto>Call of Duty Black Ops 2 PS3</nombre_producto>
+          <referencia>P0019</referencia>
+          <precio>15 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Pablo</nombre>
+      <apellidos>Rodríguez</apellidos>
+      <teléfono>699232212</teléfono>
+      <dirección>
+        <calle>Ballet</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>29300</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>pablo23@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-22</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>20</número_pedido>
+        <fecha_compra>2021-06-25</fecha_compra>
+        <fecha_entrega>2021-06-27</fecha_entrega>
+        <total_factura>100 €</total_factura>
+        <producto>
+          <nombre_producto>Mando Xbox</nombre_producto>
+          <referencia>P0020</referencia>
+          <precio>50 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+</Pedidos>
+</trimestre>
+<trimestre trim="3">
+  <Pedidos>
+    <pedido>
+      <nombre>Aurelio</nombre>
+      <apellidos>Hernán</apellidos>
+      <teléfono>678903445</teléfono>
+      <dirección>
+        <calle>Poli</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28240</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>aurelio@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-22</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>21</número_pedido>
+        <fecha_compra>2021-07-27</fecha_compra>
+        <fecha_entrega>2021-07-28</fecha_entrega>
+        <total_factura>5 €</total_factura>
+        <producto>
+          <nombre_producto>Fallout 76 PS4</nombre_producto>
+          <referencia>P0021</referencia>
+          <precio>5 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>22</número_pedido>
+        <fecha_compra>2021-07-28</fecha_compra>
+        <fecha_entrega>2021-07-02</fecha_entrega>
+        <total_factura>50 €</total_factura>
+        <producto>
+          <nombre_producto>Mario Kart Switch</nombre_producto>
+          <referencia>P0022</referencia>
+          <precio>50 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Ernesto</nombre>
+  <apellidos>Sevilla</apellidos>
+  <teléfono>677754770</teléfono>
+  <dirección>
+    <calle>Paulatib</calle>
+    <ciudad>Galicia</ciudad>
+    <código_postal>20021</código_postal>
+    <provincia>Galicia</provincia>
+  </dirección>
+  <correo_electrónico>sevilla@gmail.com</correo_electrónico>
+  <fecha_inclusión>2021-01-26</fecha_inclusión>
+  <detalle_pedido>
+    <número_pedido>23</número_pedido>
+    <fecha_compra>2021-07-01</fecha_compra>
+    <fecha_entrega>2021-07-03</fecha_entrega>
+    <total_factura>45 €</total_factura>
+    <producto>
+      <nombre_producto>The Last of Us PS5</nombre_producto>
+      <referencia>P0023</referencia>
+      <precio>45 €</precio>
+      <unidades>1</unidades>
+    </producto>
+  </detalle_pedido>
+  </pedido>
+  <pedido>
+    <nombre>Pablo</nombre>
+    <apellidos>Rodríguez</apellidos>
+    <teléfono>699232212</teléfono>
+    <dirección>
+      <calle>Ballet</calle>
+      <ciudad>Barcelona</ciudad>
+      <código_postal>29300</código_postal>
+      <provincia>Barcelona</provincia>
+    </dirección>
+    <correo_electrónico>pablo23@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-02-22</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>24</número_pedido>
+      <fecha_compra>2021-08-02</fecha_compra>
+      <fecha_entrega>2021-08-03</fecha_entrega>
+      <total_factura>80 €</total_factura>
+      <producto>
+        <nombre_producto>No Man's Sky Switch</nombre_producto>
+        <referencia>P0024</referencia>
+        <precio>40 €</precio>
+        <unidades>2</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido> 
+  <pedido>
+    <nombre>Marta</nombre>
+    <apellidos>Martín</apellidos>
+    <teléfono>621342134</teléfono>
+    <dirección>
+      <calle>Ausias</calle>
+      <ciudad>Cáceres</ciudad>
+      <código_postal>27322</código_postal>
+      <provincia>Cáceres</provincia>
+    </dirección>
+    <correo_electrónico>marta@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-02-01</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>25</número_pedido>
+      <fecha_compra>2021-08-04</fecha_compra>
+      <fecha_entrega>2021-08-05</fecha_entrega>
+      <total_factura>50 €</total_factura>
+      <producto>
+        <nombre_producto>Joy-Con PRO Switch</nombre_producto>
+        <referencia>P0025</referencia>
+        <precio>50 €</precio>
+        <unidades>1</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido> 
+  <pedido>
+    <nombre>Sergio</nombre>
+    <apellidos>Sobrado</apellidos>
+    <teléfono>623457893</teléfono>
+    <dirección>
+      <calle>Spielberg</calle>
+      <ciudad>San Sebastián</ciudad>
+      <código_postal>21112</código_postal>
+      <provincia>Gipuzkoa </provincia>
+    </dirección>
+    <correo_electrónico>sobrado@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-03-01</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>26</número_pedido>
+      <fecha_compra>2021-08-05</fecha_compra>
+      <fecha_entrega>2021-08-07</fecha_entrega>
+      <total_factura>29 €</total_factura>
+      <producto>
+        <nombre_producto>Call of Duty Vanguard PS5</nombre_producto>
+        <referencia>P0026</referencia>
+        <precio>29 €</precio>
+        <unidades>1</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido>   
+  <pedido>
+    <nombre>Federico</nombre>
+    <apellidos>Lanzo</apellidos>
+    <teléfono>612357893</teléfono>
+    <dirección>
+      <calle>Valencia</calle>
+      <ciudad>San Sebastián</ciudad>
+      <código_postal>22312</código_postal>
+      <provincia>Valencia </provincia>
+    </dirección>
+    <correo_electrónico>lanzofede546@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-05-02</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>27</número_pedido>
+      <fecha_compra>2021-09-05</fecha_compra>
+      <fecha_entrega>2021-09-07</fecha_entrega>
+      <total_factura>50 €</total_factura>
+      <producto>
+        <nombre_producto>Call of Duty Modern Warfare PS5</nombre_producto>
+        <referencia>P0027</referencia>
+        <precio>50 €</precio>
+        <unidades>1</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido>
+  <pedido>
+    <nombre>Israel</nombre>
+    <apellidos>Calero</apellidos>
+    <teléfono>698786765</teléfono>
+    <dirección>
+      <calle>Tarant</calle>
+      <ciudad>Madrid</ciudad>
+      <código_postal>28021</código_postal>
+      <provincia>Madrid </provincia>
+    </dirección>
+    <correo_electrónico>calero@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-03-02</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>28</número_pedido>
+      <fecha_compra>2021-09-06</fecha_compra>
+      <fecha_entrega>2021-09-09</fecha_entrega>
+      <total_factura>600 €</total_factura>
+      <producto>
+        <nombre_producto>PS5</nombre_producto>
+        <referencia>P0028</referencia>
+        <precio>600 €</precio>
+        <unidades>1</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido> 
+  <pedido>
+    <nombre>Eduardo</nombre>
+    <apellidos>Martínez</apellidos>
+    <teléfono>620012876</teléfono>
+    <dirección>
+      <calle>Seur</calle>
+      <ciudad>Sevilla</ciudad>
+      <código_postal>28222</código_postal>
+      <provincia>Sevilla </provincia>
+    </dirección>
+    <correo_electrónico>eduu23@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-03-04</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>29</número_pedido>
+      <fecha_compra>2021-09-06</fecha_compra>
+      <fecha_entrega>2021-09-09</fecha_entrega>
+      <total_factura>200 €</total_factura>
+      <producto>
+        <nombre_producto>Xbox 360</nombre_producto>
+        <referencia>P0029</referencia>
+        <precio>100 €</precio>
+        <unidades>2</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido> 
+  <pedido>
+    <nombre>Diego</nombre>
+    <apellidos>Galán</apellidos>
+    <teléfono>625643876</teléfono>
+    <dirección>
+      <calle>damían suárez</calle>
+      <ciudad>Valencia</ciudad>
+      <código_postal>24522</código_postal>
+      <provincia>Valencia </provincia>
+    </dirección>
+    <correo_electrónico>suárez@gmail.com</correo_electrónico>
+    <fecha_inclusión>2021-03-04</fecha_inclusión>
+    <detalle_pedido>
+      <número_pedido>30</número_pedido>
+      <fecha_compra>2021-09-08</fecha_compra>
+      <fecha_entrega>2021-09-010</fecha_entrega>
+      <total_factura>100 €</total_factura>
+      <producto>
+        <nombre_producto>PS5 mando</nombre_producto>
+        <referencia>P0030</referencia>
+        <precio>50 €</precio>
+        <unidades>2</unidades>
+      </producto>
+    </detalle_pedido>
+  </pedido>  
+  </Pedidos>
+  </trimestre>
+     
+<trimestre trim="4">
+  <Pedidos>
+    <pedido>
+      <nombre>Israel</nombre>
+      <apellidos>Calero</apellidos>
+      <teléfono>698786765</teléfono>
+      <dirección>
+        <calle>Tarant</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid </provincia>
+      </dirección>
+      <correo_electrónico>calero@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>31</número_pedido>
+        <fecha_compra>2021-10-08</fecha_compra>
+        <fecha_entrega>2021-10-11</fecha_entrega>
+        <total_factura>220 €</total_factura>
+        <producto>
+          <nombre_producto>Nintendo switch lite</nombre_producto>
+          <referencia>P0031</referencia>
+          <precio>220 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Eduardo</nombre>
+      <apellidos>Martínez</apellidos>
+      <teléfono>620012876</teléfono>
+      <dirección>
+        <calle>Seur</calle>
+        <ciudad>Sevilla</ciudad>
+        <código_postal>28222</código_postal>
+        <provincia>Sevilla </provincia>
+      </dirección>
+      <correo_electrónico>eduu23@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-04</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>32</número_pedido>
+        <fecha_compra>2021-10-10</fecha_compra>
+        <fecha_entrega>2021-10-11</fecha_entrega>
+        <total_factura>40 €</total_factura>
+        <producto>
+          <nombre_producto>Lego Skywalker Saga PS4</nombre_producto>
+          <referencia>P0032</referencia>
+          <precio>20 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Diego</nombre>
+      <apellidos>Galán</apellidos>
+      <teléfono>625643876</teléfono>
+      <dirección>
+        <calle>damían suárez</calle>
+        <ciudad>Valencia</ciudad>
+        <código_postal>24522</código_postal>
+        <provincia>Valencia </provincia>
+      </dirección>
+      <correo_electrónico>suárez@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-04</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>33</número_pedido>
+        <fecha_compra>2021-10-12</fecha_compra>
+        <fecha_entrega>2021-10-13</fecha_entrega>
+        <total_factura>200 €</total_factura>
+        <producto>
+          <nombre_producto>PS5 mando</nombre_producto>
+          <referencia>P0033</referencia>
+          <precio>50 €</precio>
+          <unidades>4</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Sergio</nombre>
+      <apellidos>Sobrado</apellidos>
+      <teléfono>623457893</teléfono>
+      <dirección>
+        <calle>Spielberg</calle>
+        <ciudad>San Sebastián</ciudad>
+        <código_postal>21112</código_postal>
+        <provincia>Gipuzkoa </provincia>
+      </dirección>
+      <correo_electrónico>sobrado@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>34</número_pedido>
+        <fecha_compra>2021-11-11</fecha_compra>
+        <fecha_entrega>2021-11-12</fecha_entrega>
+        <total_factura>15 €</total_factura>
+        <producto>
+          <nombre_producto>Call of Duty Black Ops 2 Xbox 360</nombre_producto>
+          <referencia>P0034</referencia>
+          <precio>15 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido> 
+    <pedido>
+      <nombre>Pablo</nombre>
+      <apellidos>Rodríguez</apellidos>
+      <teléfono>699232212</teléfono>
+      <dirección>
+        <calle>Ballet</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>29300</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>pablo23@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-22</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>35</número_pedido>
+        <fecha_compra>2021-11-12</fecha_compra>
+        <fecha_entrega>2021-11-13</fecha_entrega>
+        <total_factura>18 €</total_factura>
+        <producto>
+          <nombre_producto>HOT WHEELS PS4</nombre_producto>
+          <referencia>P0035</referencia>
+          <precio>18 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Miguel</nombre>
+      <apellidos>Avilés</apellidos>
+      <teléfono>697932212</teléfono>
+      <dirección>
+        <calle>Ronaes</calle>
+        <ciudad>Zaragoza</ciudad>
+        <código_postal>20200</código_postal>
+        <provincia>Zaragoza</provincia>
+      </dirección>
+      <correo_electrónico>avilés@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-22</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>36</número_pedido>
+        <fecha_compra>2021-11-13</fecha_compra>
+        <fecha_entrega>2021-11-15</fecha_entrega>
+        <total_factura>36 €</total_factura>
+        <producto>
+          <nombre_producto>GTA IV PS3</nombre_producto>
+          <referencia>P0036</referencia>
+          <precio>18 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlota</nombre>
+      <apellidos>Zabalgo</apellidos>
+      <teléfono>647933412</teléfono>
+      <dirección>
+        <calle>Ozuna</calle>
+        <ciudad>Badajoz</ciudad>
+        <código_postal>22298</código_postal>
+        <provincia>Badajoz</provincia>
+      </dirección>
+      <correo_electrónico>carlota345@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-04</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>37</número_pedido>
+        <fecha_compra>2021-12-13</fecha_compra>
+        <fecha_entrega>2021-12-15</fecha_entrega>
+        <total_factura>12 €</total_factura>
+        <producto>
+          <nombre_producto>Lego Marvel Switch</nombre_producto>
+          <referencia>P0037</referencia>
+          <precio>12 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>  
+    <pedido>
+      <nombre>Álvaro</nombre>
+      <apellidos>Molina</apellidos>
+      <teléfono>678934412</teléfono>
+      <dirección>
+        <calle>San Gervasio</calle>
+        <ciudad>Toledo</ciudad>
+        <código_postal>20598</código_postal>
+        <provincia>Toledo</provincia>
+      </dirección>
+      <correo_electrónico>molina671@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-04</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>38</número_pedido>
+        <fecha_compra>2021-12-14</fecha_compra>
+        <fecha_entrega>2021-12-16</fecha_entrega>
+        <total_factura>14 €</total_factura>
+        <producto>
+          <nombre_producto>Lego DC super Villains Switch</nombre_producto>
+          <referencia>P0038</referencia>
+          <precio>14 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Paloma</nombre>
+      <apellidos>Navarro</apellidos>
+      <teléfono>678937896</teléfono>
+      <dirección>
+        <calle>Krypton</calle>
+        <ciudad>Málaga</ciudad>
+        <código_postal>22348</código_postal>
+        <provincia>Málaga</provincia>
+      </dirección>
+      <correo_electrónico>paloma6@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-02-24</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>39</número_pedido>
+        <fecha_compra>2021-12-15</fecha_compra>
+        <fecha_entrega>2021-12-16</fecha_entrega>
+        <total_factura>22 €</total_factura>
+        <producto>
+          <nombre_producto>Red Dead 2 PS4</nombre_producto>
+          <referencia>P0039</referencia>
+          <precio>22 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Iván</nombre>
+      <apellidos>Pérez</apellidos>
+      <teléfono>644444122</teléfono>
+      <dirección>
+        <calle>Molina</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>29598</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>iván.perez44@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-03-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>40</número_pedido>
+        <fecha_compra>2021-12-17</fecha_compra>
+        <fecha_entrega>2021-12-18</fecha_entrega>
+        <total_factura>345 €</total_factura>
+        <producto>
+          <nombre_producto> Nintendo Switch Oled</nombre_producto>
+          <referencia>P0040</referencia>
+          <precio>345 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+  </Pedidos>
+</trimestre>
+</año>
+
+<año anio="2022">
+    <trimestre trim="1">
+      <Pedidos>
+        <pedido>
+          <nombre>Iván</nombre>
+          <apellidos>Moreno</apellidos>
+          <teléfono>621456789</teléfono>
+          <dirección>
+            <calle>Serrano</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28976</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>ivánmoreno@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>41</número_pedido>
+            <fecha_compra>2022-01-18</fecha_compra>
+            <fecha_entrega>2022-01-20</fecha_entrega>
+            <total_factura>20 €</total_factura>
+            <producto>
+              <nombre_producto>Tarjeta Nintendo Switch Año</nombre_producto>
+              <referencia>P0041</referencia>
+              <precio>20 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Paloma</nombre>
+          <apellidos>Navarro</apellidos>
+          <teléfono>678937896</teléfono>
+          <dirección>
+            <calle>Krypton</calle>
+            <ciudad>Málaga</ciudad>
+            <código_postal>22348</código_postal>
+            <provincia>Málaga</provincia>
+          </dirección>
+          <correo_electrónico>paloma6@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-02-24</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>42</número_pedido>
+            <fecha_compra>2022-01-19</fecha_compra>
+            <fecha_entrega>2022-01-20</fecha_entrega>
+            <total_factura>18 €</total_factura>
+            <producto>
+              <nombre_producto>Jedi Knight Switch Remastered</nombre_producto>
+              <referencia>P0042</referencia>
+              <precio>18 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Miguel</nombre>
+          <apellidos>Avilés</apellidos>
+          <teléfono>697932212</teléfono>
+          <dirección>
+            <calle>Ronaes</calle>
+            <ciudad>Zaragoza</ciudad>
+            <código_postal>20200</código_postal>
+            <provincia>Zaragoza</provincia>
+          </dirección>
+          <correo_electrónico>avilés@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-02-22</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>43</número_pedido>
+            <fecha_compra>2022-01-20</fecha_compra>
+            <fecha_entrega>2022-01-22</fecha_entrega>
+            <total_factura>40 €</total_factura>
+            <producto>
+              <nombre_producto>Gta Trilogy Switch</nombre_producto>
+              <referencia>P0043</referencia>
+              <precio>40 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Pablo</nombre>
+          <apellidos>Rodríguez</apellidos>
+          <teléfono>699232212</teléfono>
+          <dirección>
+            <calle>Ballet</calle>
+            <ciudad>Barcelona</ciudad>
+            <código_postal>29300</código_postal>
+            <provincia>Barcelona</provincia>
+          </dirección>
+          <correo_electrónico>pablo23@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-02-22</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>44</número_pedido>
+            <fecha_compra>2022-02-22</fecha_compra>
+            <fecha_entrega>2022-02-23</fecha_entrega>
+            <total_factura>20 €</total_factura>
+            <producto>
+              <nombre_producto>Rayman Legends PS4</nombre_producto>
+              <referencia>P0044</referencia>
+              <precio>10 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Carlos</nombre>
+          <apellidos>Hernández</apellidos>
+          <teléfono>678902345</teléfono>
+          <dirección>
+            <calle>Legazpi</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28021</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-01-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>45</número_pedido>
+            <fecha_compra>2022-02-22</fecha_compra>
+            <fecha_entrega>2022-02-24</fecha_entrega>
+            <total_factura>15 €</total_factura>
+            <producto>
+              <nombre_producto>Spider-Man PS4 </nombre_producto>
+              <referencia>P0045</referencia>
+              <precio>15 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Alba</nombre>
+          <apellidos>Putellas</apellidos>
+          <teléfono>699876540</teléfono>
+          <dirección>
+            <calle>San Patricio</calle>
+            <ciudad>Málaga</ciudad>
+            <código_postal>20230</código_postal>
+            <provincia>Málaga</provincia>
+          </dirección>
+          <correo_electrónico>putellas@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-02-25</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>46</número_pedido>
+            <fecha_compra>2022-02-22</fecha_compra>
+            <fecha_entrega>2022-02-25</fecha_entrega>
+            <total_factura>13 €</total_factura>
+            <producto>
+              <nombre_producto>Batman Xbox 360 </nombre_producto>
+              <referencia>P0046</referencia>
+              <precio>13 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Román</nombre>
+          <apellidos>Bastero</apellidos>
+          <teléfono>699879988</teléfono>
+          <dirección>
+            <calle>San Potres</calle>
+            <ciudad>Barcelona</ciudad>
+            <código_postal>23430</código_postal>
+            <provincia>Barcelona</provincia>
+          </dirección>
+          <correo_electrónico>bastero@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-02-25</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>47</número_pedido>
+            <fecha_compra>2022-03-25</fecha_compra>
+            <fecha_entrega>2022-03-28</fecha_entrega>
+            <total_factura>5 €</total_factura>
+            <producto>
+              <nombre_producto>Fallout 76 PS4 </nombre_producto>
+              <referencia>P0047</referencia>
+              <precio>5 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Erra</nombre>
+          <apellidos>Aslani</apellidos>
+          <teléfono>679675433</teléfono>
+          <dirección>
+            <calle>San Legovigildo</calle>
+            <ciudad>Barcelona</ciudad>
+            <código_postal>22330</código_postal>
+            <provincia>Barcelona</provincia>
+          </dirección>
+          <correo_electrónico>aslani@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-02-27</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>48</número_pedido>
+            <fecha_compra>2022-03-26</fecha_compra>
+            <fecha_entrega>2022-03-28</fecha_entrega>
+            <total_factura>34 €</total_factura>
+            <producto>
+              <nombre_producto>Guardianes de la Galaxia PS4 </nombre_producto>
+              <referencia>P0048</referencia>
+              <precio>17 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>Sebastián</nombre>
+          <apellidos>Steve</apellidos>
+          <teléfono>680986533</teléfono>
+          <dirección>
+            <calle>San Pepe</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28007</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>steve99@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-02-21</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>49</número_pedido>
+            <fecha_compra>2022-03-27</fecha_compra>
+            <fecha_entrega>2022-03-29</fecha_entrega>
+            <total_factura>30 €</total_factura>
+            <producto>
+              <nombre_producto>Guardianes de la Galaxia PS5 </nombre_producto>
+              <referencia>P0049</referencia>
+              <precio>15 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre>José Manuel</nombre>
+          <apellidos>Macías</apellidos>
+          <teléfono>634456782</teléfono>
+          <dirección>
+            <calle>Serrano</calle>
+            <ciudad>Zaragoza</ciudad>
+            <código_postal>29976</código_postal>
+            <provincia>Zaragoza</provincia>
+          </dirección>
+          <correo_electrónico>macías@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>50</número_pedido>
+            <fecha_compra>2022-03-28</fecha_compra>
+            <fecha_entrega>2022-03-30</fecha_entrega>
+            <total_factura>35 €</total_factura>
+            <producto>
+              <nombre_producto>Tarjeta Nintendo Switch Familiar anual</nombre_producto>
+              <referencia>P0050</referencia>
+              <precio>35 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+      </Pedidos>      
+</trimestre>
+<trimestre trim="2">
+  <Pedidos>
+    <pedido>
+      <nombre>Iván</nombre>
+      <apellidos>Moreno</apellidos>
+      <teléfono>621456789</teléfono>
+      <dirección>
+        <calle>Serrano</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28976</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>ivánmoreno@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>51</número_pedido>
+        <fecha_compra>2022-04-01</fecha_compra>
+        <fecha_entrega>2022-04-03</fecha_entrega>
+        <total_factura>290 €</total_factura>
+        <producto>
+          <nombre_producto> Nintendo Switch </nombre_producto>
+          <referencia>P0051</referencia>
+          <precio>290 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Román</nombre>
+      <apellidos>Bastero</apellidos>
+      <teléfono>699879988</teléfono>
+      <dirección>
+        <calle>San Potres</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>23430</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>bastero@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-02-25</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>52</número_pedido>
+        <fecha_compra>2022-04-03</fecha_compra>
+        <fecha_entrega>2022-04-05</fecha_entrega>
+        <total_factura>180 €</total_factura>
+        <producto>
+          <nombre_producto> PS4 Slim </nombre_producto>
+          <referencia>P0052</referencia>
+          <precio>180 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Román</nombre>
+      <apellidos>Bastero</apellidos>
+      <teléfono>699879988</teléfono>
+      <dirección>
+        <calle>San Potres</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>23430</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>bastero@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-02-25</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>53</número_pedido>
+        <fecha_compra>2022-04-04</fecha_compra>
+        <fecha_entrega>2022-04-06</fecha_entrega>
+        <total_factura>35 €</total_factura>
+        <producto>
+          <nombre_producto> Fifa 23 PS4 </nombre_producto>
+          <referencia>P0053</referencia>
+          <precio>35 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Erra</nombre>
+      <apellidos>Aslani</apellidos>
+      <teléfono>679675433</teléfono>
+      <dirección>
+        <calle>San Legovigildo</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>22330</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>aslani@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-02-27</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>54</número_pedido>
+        <fecha_compra>2022-05-02</fecha_compra>
+        <fecha_entrega>2022-05-04</fecha_entrega>
+        <total_factura>275 €</total_factura>
+        <producto>
+          <nombre_producto> PS4 PRO + Mando </nombre_producto>
+          <referencia>P0054</referencia>
+          <precio>275 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>José Manuel</nombre>
+      <apellidos>Macías</apellidos>
+      <teléfono>634456782</teléfono>
+      <dirección>
+        <calle>Serrano</calle>
+        <ciudad>Zaragoza</ciudad>
+        <código_postal>29976</código_postal>
+        <provincia>Zaragoza</provincia>
+      </dirección>
+      <correo_electrónico>macías@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>55</número_pedido>
+        <fecha_compra>2022-05-05</fecha_compra>
+        <fecha_entrega>2022-05-07</fecha_entrega>
+        <total_factura>35 €</total_factura>
+        <producto>
+          <nombre_producto>Tarjeta Nintendo Switch Familiar anual</nombre_producto>
+          <referencia>P0055</referencia>
+          <precio>35 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Manuel</nombre>
+      <apellidos>Navarro</apellidos>
+      <teléfono>624816782</teléfono>
+      <dirección>
+        <calle>Pacoint</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>28176</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>manu234@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>56</número_pedido>
+        <fecha_compra>2022-05-10</fecha_compra>
+        <fecha_entrega>2022-05-13</fecha_entrega>
+        <total_factura>10 €</total_factura>
+        <producto>
+          <nombre_producto>Battlefront 2015</nombre_producto>
+          <referencia>P0056</referencia>
+          <precio>10 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Nora</nombre>
+      <apellidos>Mantoñés</apellidos>
+      <teléfono>617816781</teléfono>
+      <dirección>
+        <calle>Barcelona Nº12</calle>
+        <ciudad>Sevilla</ciudad>
+        <código_postal>25466</código_postal>
+        <provincia>Sevilla</provincia>
+      </dirección>
+      <correo_electrónico>nora94@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>57</número_pedido>
+        <fecha_compra>2022-06-01</fecha_compra>
+        <fecha_entrega>2022-06-03</fecha_entrega>
+        <total_factura>18 €</total_factura>
+        <producto>
+          <nombre_producto>Jedi Fallen Order PS4</nombre_producto>
+          <referencia>P0057</referencia>
+          <precio>18 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Anakin</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>623416781</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28991</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>anakin@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>58</número_pedido>
+        <fecha_compra>2022-06-03</fecha_compra>
+        <fecha_entrega>2022-06-06</fecha_entrega>
+        <total_factura>10 €</total_factura>
+        <producto>
+          <nombre_producto>Outlast Switch</nombre_producto>
+          <referencia>P0058</referencia>
+          <precio>10 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Álvaro</nombre>
+      <apellidos>Garcés</apellidos>
+      <teléfono>698716781</teléfono>
+      <dirección>
+        <calle>Seseña</calle>
+        <ciudad>Valencia</ciudad>
+        <código_postal>20591</código_postal>
+        <provincia>Valencia</provincia>
+      </dirección>
+      <correo_electrónico>garcés@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>59</número_pedido>
+        <fecha_compra>2022-06-07</fecha_compra>
+        <fecha_entrega>2022-06-09</fecha_entrega>
+        <total_factura>15 €</total_factura>
+        <producto>
+          <nombre_producto>GTA V PS4</nombre_producto>
+          <referencia>P0059</referencia>
+          <precio>15 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Lionel</nombre>
+      <apellidos>Messi</apellidos>
+      <teléfono>698716781</teléfono>
+      <dirección>
+        <calle>Messi</calle>
+        <ciudad>Barcelona</ciudad>
+        <código_postal>20591</código_postal>
+        <provincia>Barcelona</provincia>
+      </dirección>
+      <correo_electrónico>messi@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>60</número_pedido>
+        <fecha_compra>2022-06-08</fecha_compra>
+        <fecha_entrega>2022-06-10</fecha_entrega>
+        <total_factura>40 €</total_factura>
+        <producto>
+          <nombre_producto>Fifa 23 PS5</nombre_producto>
+          <referencia>P0060</referencia>
+          <precio>40 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+  </Pedidos>
+  </trimestre>
+    <trimestre trim="3">
+      <Pedidos>
+        <pedido>
+          <nombre>Iván</nombre>
+          <apellidos>Moreno</apellidos>
+          <teléfono>621456789</teléfono>
+          <dirección>
+            <calle>Serrano</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28976</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>ivánmoreno@gmail.com</correo_electrónico>
+          <fecha_inclusión>2021-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>61</número_pedido>
+            <fecha_compra>2022-07-01</fecha_compra>
+            <fecha_entrega>2022-07-03</fecha_entrega>
+            <total_factura>44 €</total_factura>
+            <producto>
+              <nombre_producto> Super Smash Switch </nombre_producto>
+              <referencia>P0061</referencia>
+              <precio>44 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Álvaro</nombre>
+          <apellidos>Garcés</apellidos>
+          <teléfono>698716781</teléfono>
+          <dirección>
+            <calle>Seseña</calle>
+            <ciudad>Valencia</ciudad>
+            <código_postal>20591</código_postal>
+            <provincia>Valencia</provincia>
+          </dirección>
+          <correo_electrónico>garcés@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>62</número_pedido>
+            <fecha_compra>2022-07-07</fecha_compra>
+            <fecha_entrega>2022-07-09</fecha_entrega>
+            <total_factura>24 €</total_factura>
+            <producto>
+              <nombre_producto>GTA IV PS3</nombre_producto>
+              <referencia>P0062</referencia>
+              <precio>12 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Anakin</nombre>
+          <apellidos>Hernández</apellidos>
+          <teléfono>623416781</teléfono>
+          <dirección>
+            <calle>Legazpi</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28991</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>anakin@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>63</número_pedido>
+            <fecha_compra>2022-07-22</fecha_compra>
+            <fecha_entrega>2022-07-25</fecha_entrega>
+            <total_factura>25 €</total_factura>
+            <producto>
+              <nombre_producto>Cooking Mama Switch</nombre_producto>
+              <referencia>P0063</referencia>
+              <precio>25 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Lionel</nombre>
+          <apellidos>Messi</apellidos>
+          <teléfono>698716781</teléfono>
+          <dirección>
+            <calle>Messi</calle>
+            <ciudad>Barcelona</ciudad>
+            <código_postal>20591</código_postal>
+            <provincia>Barcelona</provincia>
+          </dirección>
+          <correo_electrónico>messi@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>64</número_pedido>
+            <fecha_compra>2022-08-08</fecha_compra>
+            <fecha_entrega>2022-08-10</fecha_entrega>
+            <total_factura>100 €</total_factura>
+            <producto>
+              <nombre_producto>Mando PS5</nombre_producto>
+              <referencia>P0064</referencia>
+              <precio>50 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Nora</nombre>
+          <apellidos>Mantoñés</apellidos>
+          <teléfono>617816781</teléfono>
+          <dirección>
+            <calle>Barcelona Nº12</calle>
+            <ciudad>Sevilla</ciudad>
+            <código_postal>25466</código_postal>
+            <provincia>Sevilla</provincia>
+          </dirección>
+          <correo_electrónico>nora94@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-01-02</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>65</número_pedido>
+            <fecha_compra>2022-08-01</fecha_compra>
+            <fecha_entrega>2022-08-03</fecha_entrega>
+            <total_factura>70 €</total_factura>
+            <producto>
+              <nombre_producto>Mando PS4</nombre_producto>
+              <referencia>P0065</referencia>
+              <precio>35 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Rafael</nombre>
+          <apellidos>Suárez</apellidos>
+          <teléfono>655446781</teléfono>
+          <dirección>
+            <calle>Pamplona 12</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28266</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>suárez9@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-05-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>66</número_pedido>
+            <fecha_compra>2022-08-08</fecha_compra>
+            <fecha_entrega>2022-08-10</fecha_entrega>
+            <total_factura>17 €</total_factura>
+            <producto>
+              <nombre_producto>Cuphead PS4</nombre_producto>
+              <referencia>P0066</referencia>
+              <precio>17 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Fernando</nombre>
+          <apellidos>Jiménez</apellidos>
+          <teléfono>602156771</teléfono>
+          <dirección>
+            <calle>Estrómboli</calle>
+            <ciudad>Zaragoza</ciudad>
+            <código_postal>20066</código_postal>
+            <provincia>Zaragoza</provincia>
+          </dirección>
+          <correo_electrónico>carnerero@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-05-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>67</número_pedido>
+            <fecha_compra>2022-09-02</fecha_compra>
+            <fecha_entrega>2022-09-05</fecha_entrega>
+            <total_factura>27 €</total_factura>
+            <producto>
+              <nombre_producto>Spider Man Miles Morales PS4</nombre_producto>
+              <referencia>P0067</referencia>
+              <precio>27 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Pablo</nombre>
+          <apellidos>Hidalgo</apellidos>
+          <teléfono>602136333</teléfono>
+          <dirección>
+            <calle>Barcelona</calle>
+            <ciudad>Málaga</ciudad>
+            <código_postal>24936</código_postal>
+            <provincia>Málaga</provincia>
+          </dirección>
+          <correo_electrónico>pablete@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-07-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>68</número_pedido>
+            <fecha_compra>2022-09-12</fecha_compra>
+            <fecha_entrega>2022-09-14</fecha_entrega>
+            <total_factura>600 €</total_factura>
+            <producto>
+              <nombre_producto>PS4 PRO</nombre_producto>
+              <referencia>P0068</referencia>
+              <precio>300 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Jorge</nombre>
+          <apellidos>Lima</apellidos>
+          <teléfono>612466390</teléfono>
+          <dirección>
+            <calle>Júpit</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28024</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>lima123@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-07-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>69</número_pedido>
+            <fecha_compra>2022-09-16</fecha_compra>
+            <fecha_entrega>2022-09-20</fecha_entrega>
+            <total_factura>250 €</total_factura>
+            <producto>
+              <nombre_producto>PS4 Slim</nombre_producto>
+              <referencia>P0069</referencia>
+              <precio>250 €</precio>
+              <unidades>1</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+        <pedido>
+          <nombre> Sergio</nombre>
+          <apellidos>Barrena</apellidos>
+          <teléfono>662364390</teléfono>
+          <dirección>
+            <calle>San Gervasio</calle>
+            <ciudad>Madrid</ciudad>
+            <código_postal>28032</código_postal>
+            <provincia>Madrid</provincia>
+          </dirección>
+          <correo_electrónico>sergioo32@gmail.com</correo_electrónico>
+          <fecha_inclusión>2022-07-06</fecha_inclusión>
+          <detalle_pedido>
+            <número_pedido>70</número_pedido>
+            <fecha_compra>2022-09-27</fecha_compra>
+            <fecha_entrega>2022-09-29</fecha_entrega>
+            <total_factura>20 €</total_factura>
+            <producto>
+              <nombre_producto>Battlefront 2 2017 PS4</nombre_producto>
+              <referencia>P0070</referencia>
+              <precio>10 €</precio>
+              <unidades>2</unidades>
+            </producto>
+          </detalle_pedido>
+        </pedido>
+      </Pedidos>
+</trimestre>
+<trimestre trim="4">
+  <Pedidos>
+    <pedido>
+      <nombre>Iván</nombre>
+      <apellidos>Moreno</apellidos>
+      <teléfono>621456789</teléfono>
+      <dirección>
+        <calle>Serrano</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28976</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>ivánmoreno@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>71</número_pedido>
+        <fecha_compra>2022-10-01</fecha_compra>
+        <fecha_entrega>2022-10-03</fecha_entrega>
+        <total_factura>100 €</total_factura>
+        <producto>
+          <nombre_producto> Mando inalámbrico Switch </nombre_producto>
+          <referencia>P0071</referencia>
+          <precio>50 €</precio>
+          <unidades>2</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Jorge</nombre>
+      <apellidos>Lima</apellidos>
+      <teléfono>612466390</teléfono>
+      <dirección>
+        <calle>Júpit</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28024</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>lima123@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-07-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>72</número_pedido>
+        <fecha_compra>2022-10-06</fecha_compra>
+        <fecha_entrega>2022-10-10</fecha_entrega>
+        <total_factura>40 €</total_factura>
+        <producto>
+          <nombre_producto>Pokémon Escarlata</nombre_producto>
+          <referencia>P0072</referencia>
+          <precio>40 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Sergio</nombre>
+      <apellidos>Barrena</apellidos>
+      <teléfono>662364390</teléfono>
+      <dirección>
+        <calle>San Gervasio</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28032</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>sergioo32@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-07-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>73</número_pedido>
+        <fecha_compra>2022-10-24</fecha_compra>
+        <fecha_entrega>2022-10-28</fecha_entrega>
+        <total_factura>400 €</total_factura>
+        <producto>
+          <nombre_producto> PS4 Edición Star wars Battlefront</nombre_producto>
+          <referencia>P0073</referencia>
+          <precio>400 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre> Pablo</nombre>
+      <apellidos>Hidalgo</apellidos>
+      <teléfono>602136333</teléfono>
+      <dirección>
+        <calle>Barcelona</calle>
+        <ciudad>Málaga</ciudad>
+        <código_postal>24936</código_postal>
+        <provincia>Málaga</provincia>
+      </dirección>
+      <correo_electrónico>pablete@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-07-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>74</número_pedido>
+        <fecha_compra>2022-11-01</fecha_compra>
+        <fecha_entrega>2022-11-04</fecha_entrega>
+        <total_factura>250 €</total_factura>
+        <producto>
+          <nombre_producto>PS4 Slim </nombre_producto>
+          <referencia>P0074</referencia>
+          <precio>250 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Carlos</nombre>
+      <apellidos>Hernández</apellidos>
+      <teléfono>678902345</teléfono>
+      <dirección>
+        <calle>Legazpi</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>28021</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>cxrlos@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-01-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>75</número_pedido>
+        <fecha_compra>2022-11-12</fecha_compra>
+        <fecha_entrega>2022-11-15</fecha_entrega>
+        <total_factura>650 €</total_factura>
+        <producto>
+          <nombre_producto>PS5+Mando</nombre_producto>
+          <referencia>P0075</referencia>
+          <precio>650 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Paloma</nombre>
+      <apellidos>Moreno</apellidos>
+      <teléfono>678902111</teléfono>
+      <dirección>
+        <calle>Níquel</calle>
+        <ciudad>Sevilla</ciudad>
+        <código_postal>27234</código_postal>
+        <provincia>Sevilla</provincia>
+      </dirección>
+      <correo_electrónico>palomita65@gmail.com</correo_electrónico>
+      <fecha_inclusión>2021-05-09</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>76</número_pedido>
+        <fecha_compra>2022-11-25</fecha_compra>
+        <fecha_entrega>2022-11-27</fecha_entrega>
+        <total_factura>650 €</total_factura>
+        <producto>
+          <nombre_producto>PS5+Mando</nombre_producto>
+          <referencia>P0076</referencia>
+          <precio>650 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Noelia</nombre>
+      <apellidos>Primo</apellidos>
+      <teléfono>623992511</teléfono>
+      <dirección>
+        <calle>Limonita</calle>
+        <ciudad>Zaragoza</ciudad>
+        <código_postal>27004</código_postal>
+        <provincia>Zaragoza</provincia>
+      </dirección>
+      <correo_electrónico>primonoelia321@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-01-02</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>77</número_pedido>
+        <fecha_compra>2022-12-02</fecha_compra>
+        <fecha_entrega>2022-12-04</fecha_entrega>
+        <total_factura>500 €</total_factura>
+        <producto>
+          <nombre_producto>Xbox Series X</nombre_producto>
+          <referencia>P0077</referencia>
+          <precio>500 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Alberto</nombre>
+      <apellidos>Fernández</apellidos>
+      <teléfono>611452511</teléfono>
+      <dirección>
+        <calle>San López</calle>
+        <ciudad>Madrid</ciudad>
+        <código_postal>27004</código_postal>
+        <provincia>Madrid</provincia>
+      </dirección>
+      <correo_electrónico>albertito898@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-02-09</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>78</número_pedido>
+        <fecha_compra>2022-12-02</fecha_compra>
+        <fecha_entrega>2022-12-04</fecha_entrega>
+        <total_factura>500 €</total_factura>
+        <producto>
+          <nombre_producto>Xbox Series X</nombre_producto>
+          <referencia>P0078</referencia>
+          <precio>500 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Luisa</nombre>
+      <apellidos>Navarro</apellidos>
+      <teléfono>623452511</teléfono>
+      <dirección>
+        <calle>José II</calle>
+        <ciudad>Cádiz</ciudad>
+        <código_postal>24321</código_postal>
+        <provincia>Cádiz</provincia>
+      </dirección>
+      <correo_electrónico>luisinha@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-10-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>79</número_pedido>
+        <fecha_compra>2022-12-12</fecha_compra>
+        <fecha_entrega>2022-12-15</fecha_entrega>
+        <total_factura>7 €</total_factura>
+        <producto>
+          <nombre_producto>Call of Duty Black Ops 4</nombre_producto>
+          <referencia>P0079</referencia>
+          <precio>7 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+    <pedido>
+      <nombre>Ibai</nombre>
+      <apellidos>LLanos</apellidos>
+      <teléfono>612352524</teléfono>
+      <dirección>
+        <calle>Carlos VI</calle>
+        <ciudad>Valencia</ciudad>
+        <código_postal>26212</código_postal>
+        <provincia>Valencia</provincia>
+      </dirección>
+      <correo_electrónico>llanos12@gmail.com</correo_electrónico>
+      <fecha_inclusión>2022-12-06</fecha_inclusión>
+      <detalle_pedido>
+        <número_pedido>80</número_pedido>
+        <fecha_compra>2022-12-24</fecha_compra>
+        <fecha_entrega>2022-12-27</fecha_entrega>
+        <total_factura>290 €</total_factura>
+        <producto>
+          <nombre_producto>Nintendo Switch </nombre_producto>
+          <referencia>P0080</referencia>
+          <precio>290 €</precio>
+          <unidades>1</unidades>
+        </producto>
+      </detalle_pedido>
+    </pedido>
+  </Pedidos>
+</trimestre>
+</año>
+</años>

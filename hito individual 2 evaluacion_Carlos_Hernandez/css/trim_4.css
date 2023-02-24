@@ -1,0 +1,61 @@
+.table{
+    background-color: rgba(246, 216, 254, 0.397);
+    color: rgb(0, 0, 0);
+    text-align:  center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+
+    position: relative;
+    /* características del color de fondo de la tabla, el texto colocado en el medio, el color del texto, la fuente de la letra, el tamaño de la fuente, la posición estática...*/
+}
+body{
+   text-align: center;
+   background-color:rgba(42, 195, 255, 0.1);
+
+    color:rgb(10, 0, 144) /* los datos del color del texto del encabezado, colocado en el centro*/
+}
+
+script{
+    align-items: center; /* los items de la tabla alineados al centro*/
+  }
+
+.table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  } /* datos para que la tabla esté situada en el centro de la página*/
+
+
+  @media screen and (max-width: 100px) {
+    table, thead, tbody, th, td, tr {
+      display: block;
+     
+    }
+  
+    /* Estilos para los encabezados de columna */
+    thead tr {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+
+    td {
+      /* Estilos para los datos de la tabla */
+      border: none;
+      border-bottom: 1px solid #ddd;
+      position: relative;
+      padding-left: 50%;
+    }
+  
+    td:before {
+      /* Estilos para las etiquetas de encabezado */
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      width: 45%;
+      padding-right: 10px;
+      white-space: nowrap;
+      content: attr(data-column);
+      font-weight: bold;
+    }
+  }

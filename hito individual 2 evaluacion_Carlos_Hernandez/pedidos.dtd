@@ -1,0 +1,27 @@
+<!ELEMENT años (año)>
+<!ELEMENT año (trimestre+)>
+<!ATTLIST año anio CDATA #REQUIRED>
+<!ELEMENT trimestre (pedidos)>
+<!ATTLIST trimestre trim CDATA #REQUIRED>
+<!ELEMENT Pedidos (pedido)>
+<!ELEMENT pedido (nombre, apellidos, teléfono, dirección, correo_electrónico, fecha_inclusión, detalle_pedido)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT teléfono (#PCDATA)>
+<!ELEMENT dirección (calle, ciudad, código_postal, provincia)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT código_postal (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT correo_electrónico (#PCDATA)>
+<!ELEMENT fecha_inclusión (#PCDATA)>
+<!ELEMENT detalle_pedido (número_pedido, fecha_compra, fecha_entrega, total_factura, producto)>
+<!ELEMENT número_pedido (#PCDATA)>
+<!ELEMENT fecha_compra (#PCDATA)>
+<!ELEMENT fecha_entrega (#PCDATA)>
+<!ELEMENT total_factura (#PCDATA)>
+<!ELEMENT producto (nombre_producto, referencia, precio, unidades)>
+<!ELEMENT nombre_producto (#PCDATA)>
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT unidades (#PCDATA)>

@@ -1,0 +1,63 @@
+.table{ /* */
+    background-color:  rgb(196, 219, 251);
+    color: rgb(0, 0, 0);
+    text-align:  center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+
+    /*establecí la fuente de la letra, el tamaño, el color, y el color de la tabla*/
+
+    
+}
+body{
+   text-align: center;
+    color:rgb(10, 0, 144);
+    background-color:rgba(169, 255, 164, 0.245);
+/* establecí los colores que quería para el texto del título y de background de la página*/
+}
+
+script{
+    align-items: center; /* para alinear la tabla */
+}
+
+
+.table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    /* de esta manera pude establecer el posicionamiento de mi tabla*/
+  }
+
+/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 100px) {
+    table, thead, tbody, th, td, tr {
+      display: block;
+    }
+  
+    /* Estilos para los encabezados de columna */
+    thead tr {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+  
+    td {
+      /* Estilos para los datos de la tabla */
+      border: none;
+      border-bottom: 1px solid #ddd;
+      position: relative;
+      padding-left: 50%;
+    }
+  
+    td:before {
+      /* Estilos para las etiquetas de encabezado */
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      width: 45%;
+      padding-right: 10px;
+      white-space: nowrap;
+      content: attr(data-column);
+      font-weight: bold;
+    }
+  }

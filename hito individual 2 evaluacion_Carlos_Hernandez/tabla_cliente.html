@@ -1,0 +1,99 @@
+<html lang="ee-es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información de cada Cliente</title>
+    <link rel="stylesheet" href="/css/cliente.css">
+</head>
+<body>
+    <h1>Información de cada Cliente</h1> 
+
+    <section>
+
+    </section>
+    <script> //Aquí abrimos el script para poder establecer qué datos queremos mostrar en esta tabla//
+        if (window.XMLHttpRequest)
+        {
+            xmlhttp=new XMLHttpRequest();
+        }
+        else 
+        {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("GET","pedidos.xml",false); //ponemos que la dirección sea nuestro xml//
+        xmlhttp.send();
+        xmlDoc=xmlhttp.responseXML;
+        const section = document.querySelector('section');
+        document.write("<table class='table' border='15'>");
+            document.write("<tr>"); //ponemos el nombre de todos los campos, el título para que aparezca arriba del todo en cada columna//
+                document.write("<th>Nº de Pedido</th>");
+                document.write("<th>Nombre</th>");
+                document.write("<th>Apellidos</th>");
+                document.write("<th>Teléfono</th>");
+                document.write("<th>Correo electrónico</th>");
+                document.write("<th>Fecha de inclusión</th>");
+                document.write("<th>Calle</th>");
+                document.write("<th>Ciudad</th>");
+                document.write("<th>Código Postal</th>");
+                document.write("<th>Provincia</th>");
+        var Pedidos=xmlDoc.getElementsByTagName("pedido"); //aquí establecemos que Pedidos es igual a pedido(porque debe recoger los datos de Pedidos)//
+        
+        for(var i=0;i<Pedidos.length;i++) //seleccionamos desde Pedidos (que es el elemento padre) todos los elementos que queremos que aparezcan en la tabla//
+        {
+            número_pedido=Pedidos[i].getElementsByTagName("número_pedido")[0].childNodes[0].nodeValue
+            nombre=Pedidos[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue
+            apellidos=Pedidos[i].getElementsByTagName("apellidos")[0].childNodes[0].nodeValue
+            teléfono=Pedidos[i].getElementsByTagName("teléfono")[0].childNodes[0].nodeValue
+            correo_electrónico=Pedidos[i].getElementsByTagName("correo_electrónico")[0].childNodes[0].nodeValue
+            fecha_inclusión=Pedidos[i].getElementsByTagName("fecha_inclusión")[0].childNodes[0].nodeValue
+            calle=Pedidos[i].getElementsByTagName("calle")[0].childNodes[0].nodeValue
+            ciudad=Pedidos[i].getElementsByTagName("ciudad")[0].childNodes[0].nodeValue
+            código_postal=Pedidos[i].getElementsByTagName("código_postal")[0].childNodes[0].nodeValue
+            provincia=Pedidos[i].getElementsByTagName("provincia")[0].childNodes[0].nodeValue
+           
+
+//aquí como ya tenemos establecidos los datos del xml, abrimos con document.write para poder escribir los datos que queramos//
+            document.write("</tr><td>");
+            document.write(número_pedido);
+            document.write("</td><td>");
+            document.write(nombre);
+            document.write("</td><td>");
+            document.write(apellidos);
+            document.write("</td><td>");
+            document.write(teléfono);
+            document.write("</td><td>");
+            document.write(correo_electrónico);
+            document.write("</td><td>");
+            document.write(fecha_inclusión);
+            document.write("</td><td>");
+            document.write(calle);
+            document.write("</td><td>");
+            document.write(ciudad);
+            document.write("</td><td>");
+            document.write(código_postal);
+            document.write("</td><td>");
+            document.write(provincia);
+            document.write("</td></td>");
+            
+       
+        
+        
+        
+        
+
+
+
+
+            
+           
+           
+            
+           
+        }
+        document.write("</table>");
+
+    </script>
+
+</body>
+</html>

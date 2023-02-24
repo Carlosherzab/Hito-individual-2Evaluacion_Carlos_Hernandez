@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es-es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información Pedidos 2021 </title>
+    <link rel="stylesheet" href="/css/trim_4.css">
+</head>
+<body>
+    <h1>Información Pedidos último trimestre 2022</h1>
+
+    <section>
+
+    </section>
+    <script>  //Aquí abrimos el script para poder establecer qué datos queremos mostrar en esta tabla//
+        if (window.XMLHttpRequest)
+        {
+            xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.open("GET","pedidos.xml",false); //ponemos que la dirección sea nuestro xml//
+        xmlhttp.send();
+        xmlDoc=xmlhttp.responseXML;
+        const section = document.querySelector('section');
+        document.write("<table class='table' border='10'>");
+            document.write("<tr>"); //ponemos el nombre de todos los campos, el título para que aparezca arriba del todo en cada columna//
+                document.write("<th>Nº Pedido</th>");
+                document.write("<th>Nombre</th>");
+                document.write("<th>Apellidos</th>");
+                document.write("<th>Teléfono</th>");
+                document.write("<th>Correo electrónico</th>");
+                document.write("<th>Fecha de registro</th>");
+                document.write("<th>Calle </th>");
+                document.write("<th>Ciudad</th>");
+                document.write("<th>Código postal</th>");
+                document.write("<th>Provincia</th>");
+                document.write("<th>Fecha de compra</th>");
+                document.write("<th>Fecha de entrega</th>");
+                document.write("<th>Unidades</th>");
+                document.write("<th>Precio</th>");
+                document.write("<th>Referencia</th>");
+                document.write("<th>Nombre del producto</th>");
+                document.write("<th>Factura total</th>");
+        //var trim=xmlDoc.getElementsByTagName("trim1")[0];
+        var anio=xmlDoc.querySelector("años año[anio='2022']"); //esta es la parte importante, aquí es dónde podemos coger los datos que nosotros le digamos, le decimos que desde anio, coja de años año, el año 2022//
+        var trim=anio.querySelector("trimestre[trim='4']"); //aquí le establecemos que la función trim es igual a la de anio, y le decimos que coja del trimestre trim, el 4, del año 2022//
+        var Pedidos=trim.getElementsByTagName("pedido"); //aquí establecemos que Pedidos es igual que trim(porque debe recoger los datos de trim)//
+        
+        for(var i=0;i<Pedidos.length;i++) //seleccionamos desde Pedidos (que es el elemento padre) todos los elementos que queremos que aparezcan en la tabla//
+        {
+            número_pedido=Pedidos[i].getElementsByTagName("número_pedido")[0].childNodes[0].nodeValue
+            nombre=Pedidos[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue
+            apellidos=Pedidos[i].getElementsByTagName("apellidos")[0].childNodes[0].nodeValue
+            teléfono=Pedidos[i].getElementsByTagName("teléfono")[0].childNodes[0].nodeValue
+            correo_electrónico=Pedidos[i].getElementsByTagName("correo_electrónico")[0].childNodes[0].nodeValue
+            fecha_inclusión=Pedidos[i].getElementsByTagName("fecha_inclusión")[0].childNodes[0].nodeValue
+            calle=Pedidos[i].getElementsByTagName("calle")[0].childNodes[0].nodeValue
+            ciudad=Pedidos[i].getElementsByTagName("ciudad")[0].childNodes[0].nodeValue
+            código_postal=Pedidos[i].getElementsByTagName("código_postal")[0].childNodes[0].nodeValue
+            provincia=Pedidos[i].getElementsByTagName("provincia")[0].childNodes[0].nodeValue
+            fecha_compra=Pedidos[i].getElementsByTagName("fecha_compra")[0].childNodes[0].nodeValue
+            fecha_entrega=Pedidos[i].getElementsByTagName("fecha_entrega")[0].childNodes[0].nodeValue
+            nombre_producto=Pedidos[i].getElementsByTagName("nombre_producto")[0].childNodes[0].nodeValue
+            referencia=Pedidos[i].getElementsByTagName("referencia")[0].childNodes[0].nodeValue
+            precio=Pedidos[i].getElementsByTagName("precio")[0].childNodes[0].nodeValue
+            unidades=Pedidos[i].getElementsByTagName("unidades")[0].childNodes[0].nodeValue
+            total_factura=Pedidos[i].getElementsByTagName("total_factura")[0].childNodes[0].nodeValue
+
+//aquí como ya tenemos establecidos los datos del xml, abrimos con document.write para poder escribir los datos que queramos//
+            document.write("</tr><td>");
+            document.write(número_pedido);
+            document.write("</td><td>");
+            document.write(nombre);
+            document.write("</td><td>");
+            document.write(apellidos);
+            document.write("</td><td>");
+            document.write(teléfono);
+            document.write("</td><td>");
+            document.write(correo_electrónico);
+            document.write("</td><td>");
+            document.write(fecha_inclusión);
+            document.write("</td><td>");
+            document.write(calle);
+            document.write("</td><td>");
+            document.write(ciudad);
+            document.write("</td><td>");
+            document.write(código_postal);
+            document.write("</td><td>");
+            document.write(provincia);
+            document.write("</td><td>");
+            document.write(fecha_compra);
+            document.write("</td><td>");
+            document.write(fecha_entrega);
+            document.write("</td><td>");
+            document.write(unidades);
+            document.write("</td><td>");
+            document.write(precio);
+            document.write("</td><td>");
+            document.write(referencia);
+            document.write("</td><td>");
+            document.write(nombre_producto);
+            document.write("</td><td>");
+            document.write(total_factura);
+            document.write("</td></td>");
+        
+        
+        
+        
+
+
+
+
+            
+           
+           
+            
+           
+        }
+        document.write("</table>");
+
+    </script>
+
+</body>
+</html>
